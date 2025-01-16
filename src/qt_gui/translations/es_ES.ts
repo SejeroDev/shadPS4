@@ -52,7 +52,7 @@
 		</message>
 		<message>
 			<source>Select which directory you want to install to.</source>
-			<translation>Select which directory you want to install to.</translation>
+			<translation>Selecciona el directorio en donde deseas instalarlo.</translation>
 		</message>
 	</context>
 	<context>
@@ -822,7 +822,7 @@
 		</message>
 		<message>
 			<source>enableCompatibilityCheckBox</source>
-			<translation>Display Compatibility Data:\nDisplays game compatibility information in table view. Enable "Update Compatibility On Startup" to get up-to-date information.</translation>
+			<translation>Mostrar compatibilidad Data:\nMostrar la información de compatibilidad del juego en Table View. Habilitar "Actualizar" para conseguir información a tiempo real.</translation>
 		</message>
 		<message>
 			<source>checkCompatibilityOnStartupCheckBox</source>
